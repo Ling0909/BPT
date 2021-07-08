@@ -1,0 +1,4 @@
+2021-03-29 10:05:57,522-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation--> 创建Deal Plan中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="fd7084f51f5c95fd38d417f85a520717", element="45e7a6eb-d17f-4f7e-b0be-2f58ee35a286")>
+2021-03-29 10:06:12,094-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation--> 创建Deal Plan中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="fd7084f51f5c95fd38d417f85a520717", element="3545018e-02f0-4615-ae43-ec7040712a08")>
+2021-03-29 10:07:03,809-ERROR-logger.py-Consumer_WEB_TEST-日志信息:点击元素失败！
+2021-03-29 10:07:04,088-ERROR-logger.py-Consumer_WEB_TEST-日志信息:Deal Simulation--> 输入PN失败！！！

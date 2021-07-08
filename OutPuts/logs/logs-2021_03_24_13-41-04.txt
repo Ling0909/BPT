@@ -1,0 +1,27 @@
+2021-03-24 13:41:25,810-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//a[@tagid="CBT_EMEA_Business_Plan"]')可见
+2021-03-24 13:41:49,094-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder1_btnSearch"]')可见
+2021-03-24 13:41:52,980-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//*[@id="spCountry"]/span/span/span')可见
+2021-03-24 13:42:17,949-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder1_btnSearch"]')可见
+2021-03-24 13:42:25,582-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//a[@id="ctl00_ContentPlaceHolder1_gv_ctl03_lbDetail"]')可见
+2021-03-24 13:42:34,399-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder1_btnComments"]')可见
+2021-03-24 13:44:59,740-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder1_btnSearch"]')可见
+2021-03-24 13:45:29,861-ERROR-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder1_btnSearch"]')可见失败
+2021-03-24 13:45:30,240-ERROR-logger.py-Consumer_WEB_TEST-日志信息:Summary页面获取数据失败！！！
+2021-03-24 13:45:36,721-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder1_btnSearch"]')可见
+2021-03-24 13:46:06,837-ERROR-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder1_btnSearch"]')可见失败
+2021-03-24 13:46:07,138-ERROR-logger.py-Consumer_WEB_TEST-日志信息:Summary页面获取数据失败！！！
+2021-03-24 13:46:07,462-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder1_btnSearch"]')可见
+2021-03-24 13:46:37,571-ERROR-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder1_btnSearch"]')可见失败
+2021-03-24 13:46:37,907-ERROR-logger.py-Consumer_WEB_TEST-日志信息:Summary页面获取数据失败！！！
+2021-03-24 13:47:23,651-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder1_btnSearch"]')可见
+2021-03-24 13:47:53,761-ERROR-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder1_btnSearch"]')可见失败
+2021-03-24 13:47:54,048-ERROR-logger.py-Consumer_WEB_TEST-日志信息:Summary页面获取数据失败！！！
+2021-03-24 13:48:23,907-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder1_btnSearch"]')可见
+2021-03-24 13:48:54,040-ERROR-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder1_btnSearch"]')可见失败
+2021-03-24 13:48:54,465-ERROR-logger.py-Consumer_WEB_TEST-日志信息:Summary页面获取数据失败！！！
+2021-03-24 13:51:09,049-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder1_btnSearch"]')可见
+2021-03-24 13:51:39,163-ERROR-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder1_btnSearch"]')可见失败
+2021-03-24 13:51:39,556-ERROR-logger.py-Consumer_WEB_TEST-日志信息:Summary页面获取数据失败！！！
+2021-03-24 13:53:56,473-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder1_btnSearch"]')可见
+2021-03-24 13:54:26,584-ERROR-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder1_btnSearch"]')可见失败
+2021-03-24 13:54:26,950-ERROR-logger.py-Consumer_WEB_TEST-日志信息:Summary页面获取数据失败！！！

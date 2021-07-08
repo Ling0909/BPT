@@ -1,0 +1,4 @@
+2021-03-22 10:34:40,728-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('id', 'ContentPlaceHolder1_btnCreateDeal')可见
+2021-03-22 10:34:40,936-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation--> 创建Deal Plan中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="5835c72bfc7ef3c8a2aaf762e0a11949", element="ee3b38aa-4cec-4ca1-bc10-5d965b8a8e64")>
+2021-03-22 10:34:42,951-ERROR-logger.py-Consumer_WEB_TEST-日志信息:点击元素失败！
+2021-03-22 10:34:43,303-ERROR-logger.py-Consumer_WEB_TEST-日志信息:Deal Simulation--> 创建Deal Plan失败！！！

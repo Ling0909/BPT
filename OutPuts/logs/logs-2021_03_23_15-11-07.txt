@@ -1,0 +1,4 @@
+2021-03-23 15:11:27,650-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//a[@tagid="CBT_EMEA_Business_Plan"]')可见
+2021-03-23 15:11:39,696-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder1_btnSearch"]')可见
+2021-03-23 15:11:40,054-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//*[@id="spCountry"]/span/span/span')可见
+2021-03-23 15:11:40,212-ERROR-logger.py-Consumer_WEB_TEST-日志信息:点击元素失败！

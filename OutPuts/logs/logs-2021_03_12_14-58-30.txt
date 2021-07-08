@@ -1,0 +1,13 @@
+2021-03-12 14:58:49,755-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//a[@tagid="CBT_EMEA_Execution_Plan"]')可见
+2021-03-12 14:59:00,092-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('id', 'ContentPlaceHolder1_btnCreateDeal')可见
+2021-03-12 14:59:00,272-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation--> 创建Deal Plan中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="1b63c7f16e93ce44b0fd048cfdc86962", element="a6efee2b-58fe-414a-ba07-893fbe89bd8c")>
+2021-03-12 14:59:04,636-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//*[@id="spRetailCustomer"]/span/span/span')可见
+2021-03-12 14:59:09,857-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//div[@id="_easyui_tree_51"]')可见
+2021-03-12 14:59:11,034-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation--> 创建Deal Plan中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="1b63c7f16e93ce44b0fd048cfdc86962", element="88d59dd0-2aee-4e84-b312-23e96fbdc15e")>
+2021-03-12 14:59:11,157-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//a[@id="ContentPlaceHolder2_btnSelectMTM"]')可见
+2021-03-12 14:59:15,953-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//*[@id="ContentPlaceHolder1_rpMTMinfo_cbMTMID_0"]')可见
+2021-03-12 14:59:39,404-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//a[@id="ContentPlaceHolder2_btnEdit"]')可见
+2021-03-12 14:59:48,737-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder2_txtTotalVolume"]')可见
+2021-03-12 14:59:48,929-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder2_txtStreetPriceLC"]')可见
+2021-03-12 14:59:49,387-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Copy Deal Item中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="1b63c7f16e93ce44b0fd048cfdc86962", element="88d59dd0-2aee-4e84-b312-23e96fbdc15e")>
+2021-03-12 15:00:12,536-ERROR-logger.py-Consumer_WEB_TEST-日志信息: 10 秒内页面 Deal Item Log 中不存在元素: ('xpath', '//*[@id="g_grid"]//div[@class="ag-pinned-left-cols-container"]/div[1]//span[1]//input[@class="ag-input-field-input ag-checkbox-input"]')

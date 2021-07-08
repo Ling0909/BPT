@@ -1,0 +1,7 @@
+2021-03-26 15:50:48,136-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder1_btnSearch"]')可见
+2021-03-26 15:50:48,518-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//*[@id="spCountry"]/span/span/span')可见
+2021-03-26 15:50:57,883-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder1_btnSearch"]')可见
+2021-03-26 15:51:03,033-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//table[@id="ctl00_ContentPlaceHolder1_gv"]//tr[3]//td[1]/a')可见
+2021-03-26 15:51:08,159-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder1_btnComments"]')可见
+2021-03-26 15:52:03,572-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//button[@id="dropdown"]/h4')可见
+2021-03-26 15:52:11,098-ERROR-logger.py-Consumer_WEB_TEST-日志信息:导航到Plan Summary页面失败！！！

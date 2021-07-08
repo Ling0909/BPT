@@ -1,0 +1,7 @@
+2021-03-24 15:42:20,595-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//a[@tagid="CBT_EMEA_Business_Plan"]')可见
+2021-03-24 15:42:42,118-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder1_btnSearch"]')可见
+2021-03-24 15:42:42,473-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//*[@id="spCountry"]/span/span/span')可见
+2021-03-24 15:42:51,897-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder1_btnSearch"]')可见
+2021-03-24 15:42:57,037-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//a[@id="//table[@id="ctl00_ContentPlaceHolder1_gv"]//tr[2]//td[1]"]')可见
+2021-03-24 15:43:27,202-ERROR-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//a[@id="//table[@id="ctl00_ContentPlaceHolder1_gv"]//tr[2]//td[1]"]')可见失败
+2021-03-24 15:43:27,471-ERROR-logger.py-Consumer_WEB_TEST-日志信息:Summary页面Search数据失败！！！

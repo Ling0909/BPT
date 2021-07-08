@@ -1,0 +1,8 @@
+2021-03-22 18:17:52,613-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//a[@tagid="CBT_EMEA_Execution_Plan"]')可见
+2021-03-22 18:18:02,919-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面ele_iframe2中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="1bdf900cc5c504cbd9699b775ab79e8c", element="2b326638-f3cf-4834-ab98-d6c20c6f26b1")>
+2021-03-22 18:18:08,424-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation-->Download/Upload Deal Item中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="1bdf900cc5c504cbd9699b775ab79e8c", element="2b326638-f3cf-4834-ab98-d6c20c6f26b1")>
+2021-03-22 18:18:08,445-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('id', 'ContentPlaceHolder2_btnDownload')可见
+2021-03-22 18:18:29,057-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//a[@id="ContentPlaceHolder2_btnUpload"]')可见
+2021-03-22 18:18:35,314-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder2_btnUpload"]')可见
+2021-03-22 18:18:46,122-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation--> 提交Deal Item中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="1bdf900cc5c504cbd9699b775ab79e8c", element="2b326638-f3cf-4834-ab98-d6c20c6f26b1")>
+2021-03-22 18:18:56,148-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//a[@id="ContentPlaceHolder2_btnSubmit"]')可见

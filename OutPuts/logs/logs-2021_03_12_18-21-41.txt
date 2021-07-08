@@ -1,0 +1,30 @@
+2021-03-12 18:22:01,012-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//a[@tagid="CBT_EMEA_Execution_Plan"]')可见
+2021-03-12 18:22:14,506-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('id', 'ContentPlaceHolder1_btnCreateDeal')可见
+2021-03-12 18:22:14,715-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation--> 创建Deal Plan中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="b73322aea0cf62cd24c75007fb9d726b", element="c8cee6cb-888d-40bb-bac3-07b3db323508")>
+2021-03-12 18:22:21,427-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//*[@id="spRetailCustomer"]/span/span/span')可见
+2021-03-12 18:22:26,634-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//div[@id="_easyui_tree_51"]')可见
+2021-03-12 18:22:27,806-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation--> 创建Deal Plan中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="b73322aea0cf62cd24c75007fb9d726b", element="bbce1700-de1b-480e-9e6c-f13cf7dc2792")>
+2021-03-12 18:22:27,947-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//a[@id="ContentPlaceHolder2_btnSelectMTM"]')可见
+2021-03-12 18:22:35,325-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//*[@id="ContentPlaceHolder1_rpMTMinfo_cbMTMID_0"]')可见
+2021-03-12 18:23:08,321-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//a[@id="ContentPlaceHolder2_btnEdit"]')可见
+2021-03-12 18:23:17,696-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder2_txtTotalVolume"]')可见
+2021-03-12 18:23:17,874-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder2_txtStreetPriceLC"]')可见
+2021-03-12 18:23:36,304-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Copy Deal Item中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="b73322aea0cf62cd24c75007fb9d726b", element="bbce1700-de1b-480e-9e6c-f13cf7dc2792")>
+2021-03-12 18:23:46,574-ERROR-logger.py-Consumer_WEB_TEST-日志信息:Delete Deal Item失败！！！
+2021-03-12 18:23:47,169-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation--> 提交Deal Item中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="b73322aea0cf62cd24c75007fb9d726b", element="bbce1700-de1b-480e-9e6c-f13cf7dc2792")>
+2021-03-12 18:23:57,187-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//a[@id="ContentPlaceHolder2_btnSubmit"]')可见
+2021-03-12 18:23:57,347-ERROR-logger.py-Consumer_WEB_TEST-日志信息:Deal Simulation--> 提交Deal Item失败！！！
+2021-03-12 18:23:57,705-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation-->Download/Upload Deal Item中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="b73322aea0cf62cd24c75007fb9d726b", element="bbce1700-de1b-480e-9e6c-f13cf7dc2792")>
+2021-03-12 18:23:57,723-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('id', 'ContentPlaceHolder2_btnDownload')可见
+2021-03-12 18:24:16,103-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('id', 'ContentPlaceHolder2_btnUpload')可见
+2021-03-12 18:24:17,814-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder2_btnUpload"]')可见
+2021-03-12 18:24:48,835-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//a[@tagid="CBT_EMEA_Execution_Plan"]')可见
+2021-03-12 18:24:59,127-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Approval页面中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="442d3acc0808d174b3da4c912b7c04e1", element="d6a324bb-d3ca-40eb-8bde-84ee2aa49b8e")>
+2021-03-12 18:24:59,151-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder1_BtnReset"]')可见
+2021-03-12 18:24:59,491-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('id', 'ctl00_ContentPlaceHolder1_rpDealList_ctl01_lbDetail')可见
+2021-03-12 18:25:09,622-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Approval页面中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="442d3acc0808d174b3da4c912b7c04e1", element="d6a324bb-d3ca-40eb-8bde-84ee2aa49b8e")>
+2021-03-12 18:25:19,829-ERROR-logger.py-Consumer_WEB_TEST-日志信息: 10 秒内页面 Deal Approval页面 中不存在元素: ('id', 'ContentPlaceHolder2_btnReject')
+2021-03-12 18:25:30,027-ERROR-logger.py-Consumer_WEB_TEST-日志信息: 10 秒内页面 Deal Approval页面 中不存在元素: ('id', 'ContentPlaceHolder2_btnReject')
+2021-03-12 18:25:30,046-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation-->Copy/Delete Deal Item数据中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="442d3acc0808d174b3da4c912b7c04e1", element="a7487e7b-593b-4af0-a8b6-989de2011c16")>
+2021-03-12 18:25:39,598-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation-->Copy/Delete Deal Item数据中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="442d3acc0808d174b3da4c912b7c04e1", element="d6a324bb-d3ca-40eb-8bde-84ee2aa49b8e")>
+2021-03-12 18:25:41,862-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//a[@id="ContentPlaceHolder1_rpDealList_lbDetail_0"]')可见

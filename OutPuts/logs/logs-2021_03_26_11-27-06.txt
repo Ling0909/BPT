@@ -1,0 +1,10 @@
+2021-03-26 11:27:24,813-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//a[@tagid="CBT_EMEA_Business_Plan"]')可见
+2021-03-26 11:27:35,135-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder1_btnSearch"]')可见
+2021-03-26 11:27:35,491-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//*[@id="spCountry"]/span/span/span')可见
+2021-03-26 11:27:44,865-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder1_btnSearch"]')可见
+2021-03-26 11:27:48,007-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//table[@id="ctl00_ContentPlaceHolder1_gv"]//tr[2]//td[1]/a')可见
+2021-03-26 11:27:53,140-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder1_btnComments"]')可见
+2021-03-26 11:29:18,672-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//button[@id="dropdown"]/h4')可见
+2021-03-26 11:29:53,208-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//button[@id="dropdown"]/h4')可见
+2021-03-26 11:30:27,718-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//button[@id="dropdown"]/h4')可见
+2021-03-26 11:31:02,251-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//button[@id="dropdown"]/h4')可见

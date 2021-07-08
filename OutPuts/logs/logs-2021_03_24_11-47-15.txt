@@ -1,0 +1,1 @@
+2021-03-24 11:47:34,203-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//a[@tagid="CBT_EMEA_Business_Plan"]')可见

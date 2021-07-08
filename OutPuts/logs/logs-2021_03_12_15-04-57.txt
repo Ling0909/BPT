@@ -1,0 +1,2 @@
+2021-03-12 15:05:18,870-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//a[@tagid="CBT_EMEA_Execution_Plan"]')可见
+2021-03-12 15:05:39,168-ERROR-logger.py-Consumer_WEB_TEST-日志信息:Deal Simulation--> 编辑Deal Item失败！！！

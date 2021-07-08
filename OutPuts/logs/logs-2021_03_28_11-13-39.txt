@@ -1,0 +1,18 @@
+2021-03-28 11:14:16,270-INFO-logger.py-Consumer_WEB_TEST-日志信息:导航到Plan Summary页面成功
+2021-03-28 11:14:31,084-INFO-logger.py-Consumer_WEB_TEST-日志信息:点击Plan Summary No成功
+2021-03-28 11:14:31,086-INFO-logger.py-Consumer_WEB_TEST-日志信息:获取每个产品组对应的Portfolio No成功
+2021-03-28 11:14:49,768-INFO-logger.py-Consumer_WEB_TEST-日志信息:导航到Portfolio Plan页面
+2021-03-28 11:14:58,259-INFO-logger.py-Consumer_WEB_TEST-日志信息:获取Portfolio Plan页面的数据
+2021-03-28 11:15:43,673-INFO-logger.py-Consumer_WEB_TEST-日志信息:根据输入的Country, Plan Cycle search summary数据成功
+2021-03-28 11:15:56,305-INFO-logger.py-Consumer_WEB_TEST-日志信息:点击Plan Summary NO成功
+2021-03-28 11:16:12,347-INFO-logger.py-Consumer_WEB_TEST-日志信息:导航到PortfolioListComments页面，获取每个产品组对应的Portfolio No成功
+2021-03-28 11:16:12,348-INFO-logger.py-Consumer_WEB_TEST-日志信息:获取NB产品组对应的数据
+2021-03-28 11:16:12,458-INFO-logger.py-Consumer_WEB_TEST-日志信息:获取TDT产品组对应的数据
+2021-03-28 11:16:12,529-INFO-logger.py-Consumer_WEB_TEST-日志信息:获取Tablet产品组对应的数据
+2021-03-28 11:16:12,587-INFO-logger.py-Consumer_WEB_TEST-日志信息:获取Option产品组对应的数据
+2021-03-28 11:16:12,756-INFO-logger.py-Consumer_WEB_TEST-日志信息:获取所有产品组汇总的数据
+2021-03-28 11:16:12,814-INFO-logger.py-Consumer_WEB_TEST-日志信息:导航到Portfolio Plan页面
+2021-03-28 11:16:21,304-INFO-logger.py-Consumer_WEB_TEST-日志信息:Portfolio Plan页面获取多产品组数据
+2021-03-28 11:16:59,005-INFO-logger.py-Consumer_WEB_TEST-日志信息:Portfolio Plan页面获取多产品组数据
+2021-03-28 11:17:36,627-INFO-logger.py-Consumer_WEB_TEST-日志信息:Portfolio Plan页面获取多产品组数据
+2021-03-28 11:18:14,291-INFO-logger.py-Consumer_WEB_TEST-日志信息:Portfolio Plan页面获取多产品组数据

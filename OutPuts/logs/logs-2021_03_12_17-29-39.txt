@@ -1,0 +1,27 @@
+2021-03-12 17:29:59,469-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//a[@tagid="CBT_EMEA_Execution_Plan"]')可见
+2021-03-12 17:30:11,977-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('id', 'ContentPlaceHolder1_btnCreateDeal')可见
+2021-03-12 17:30:12,192-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation--> 创建Deal Plan中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="5e7869073a116df6516992db26505cbc", element="e312444e-ad1a-4c90-86c7-d7edfc15a2d8")>
+2021-03-12 17:30:17,031-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//*[@id="spRetailCustomer"]/span/span/span')可见
+2021-03-12 17:30:22,230-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//div[@id="_easyui_tree_51"]')可见
+2021-03-12 17:30:23,406-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation--> 创建Deal Plan中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="5e7869073a116df6516992db26505cbc", element="5d1d6109-a734-4b6c-8695-c889e459137d")>
+2021-03-12 17:30:23,526-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//a[@id="ContentPlaceHolder2_btnSelectMTM"]')可见
+2021-03-12 17:30:44,154-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//*[@id="ContentPlaceHolder1_rpMTMinfo_cbMTMID_0"]')可见
+2021-03-12 17:31:17,603-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//a[@id="ContentPlaceHolder2_btnEdit"]')可见
+2021-03-12 17:31:26,942-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder2_txtTotalVolume"]')可见
+2021-03-12 17:31:27,128-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder2_txtStreetPriceLC"]')可见
+2021-03-12 17:31:45,515-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Copy Deal Item中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="5e7869073a116df6516992db26505cbc", element="5d1d6109-a734-4b6c-8695-c889e459137d")>
+2021-03-12 17:31:56,439-ERROR-logger.py-Consumer_WEB_TEST-日志信息:Delete Deal Item失败！！！
+2021-03-12 17:31:57,813-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation--> 提交Deal Item中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="5e7869073a116df6516992db26505cbc", element="5d1d6109-a734-4b6c-8695-c889e459137d")>
+2021-03-12 17:32:07,832-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//a[@id="ContentPlaceHolder2_btnSubmit"]')可见
+2021-03-12 17:32:26,785-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation-->Download/Upload Deal Item中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="5e7869073a116df6516992db26505cbc", element="5d1d6109-a734-4b6c-8695-c889e459137d")>
+2021-03-12 17:32:27,528-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('id', 'ContentPlaceHolder2_btnDownload')可见
+2021-03-12 17:32:46,039-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('id', 'ContentPlaceHolder2_btnUpload')可见
+2021-03-12 17:32:46,757-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder2_btnUpload"]')可见
+2021-03-12 17:33:15,080-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//a[@tagid="CBT_EMEA_Execution_Plan"]')可见
+2021-03-12 17:33:25,371-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Approval页面中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="3c11bddc6fbd57114d9a371fa4e61400", element="514682d2-6cdd-4439-8e5c-3532e7e8189a")>
+2021-03-12 17:33:25,393-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder1_BtnReset"]')可见
+2021-03-12 17:33:25,728-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('id', 'ctl00_ContentPlaceHolder1_rpDealList_ctl01_lbDetail')可见
+2021-03-12 17:33:35,862-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Approval页面中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="3c11bddc6fbd57114d9a371fa4e61400", element="514682d2-6cdd-4439-8e5c-3532e7e8189a")>
+2021-03-12 17:33:38,189-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('id', 'ContentPlaceHolder2_btnReject')可见
+2021-03-12 17:33:43,619-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder1_btnSave"]')可见
+2021-03-12 17:33:58,744-ERROR-logger.py-Consumer_WEB_TEST-日志信息:Deal Simulation-->Copy/Delete Deal Item数据失败！！！

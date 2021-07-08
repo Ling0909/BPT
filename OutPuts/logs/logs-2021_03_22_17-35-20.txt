@@ -1,0 +1,2 @@
+2021-03-22 17:35:41,794-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//a[@tagid="CBT_EMEA_Execution_Plan"]')可见
+2021-03-22 17:35:52,097-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面ele_iframe2中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="e9ab4ca84a1a04c00f2a025cec23f191", element="7f1dbcc9-2467-4004-9564-9ef708171cc1")>

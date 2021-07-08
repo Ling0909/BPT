@@ -1,0 +1,7 @@
+2021-03-12 15:33:37,306-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//a[@tagid="CBT_EMEA_Execution_Plan"]')可见
+2021-03-12 15:33:47,602-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面ele_iframe2中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="9c28cfc1397fd509e71af44568ad0a7c", element="3c2ab701-7303-4879-82a2-1158919dfcf3")>
+2021-03-12 15:34:03,473-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//a[@id="ContentPlaceHolder2_btnEdit"]')可见
+2021-03-12 15:34:12,817-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder2_txtTotalVolume"]')可见
+2021-03-12 15:34:13,034-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder2_txtStreetPriceLC"]')可见
+2021-03-12 15:34:31,393-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Copy Deal Item中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="9c28cfc1397fd509e71af44568ad0a7c", element="3c2ab701-7303-4879-82a2-1158919dfcf3")>
+2021-03-12 15:34:55,070-ERROR-logger.py-Consumer_WEB_TEST-日志信息:Delete Deal Item失败！！！

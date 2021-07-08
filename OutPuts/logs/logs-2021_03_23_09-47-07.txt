@@ -1,0 +1,12 @@
+2021-03-23 09:47:27,502-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//a[@tagid="CBT_EMEA_Execution_Plan"]')可见
+2021-03-23 09:47:40,868-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('id', 'ContentPlaceHolder1_btnCreateDeal')可见
+2021-03-23 09:47:41,081-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation--> 创建Deal Plan中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="a0a770eb8fe0d2f6f51e91ccb06bb33b", element="7c8bbaab-3496-4023-b6c3-c4e4b149edaa")>
+2021-03-23 09:47:48,079-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//*[@id="spRetailCustomer"]/span/span/span')可见
+2021-03-23 09:47:54,277-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//div[@id="_easyui_tree_1"]')可见
+2021-03-23 09:47:55,461-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation--> 创建Deal Plan中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="a0a770eb8fe0d2f6f51e91ccb06bb33b", element="217f5fa5-3eb7-42ca-9ac3-f9c9adcbc071")>
+2021-03-23 09:47:55,586-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//a[@id="ContentPlaceHolder2_btnSelectMTM"]')可见
+2021-03-23 09:48:20,237-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder1_txtPN"]')可见
+2021-03-23 09:48:36,520-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//*[@id="ContentPlaceHolder1_rpMTMinfo_cbMTMID_0"]')可见
+2021-03-23 09:48:55,198-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder1_txtPN"]')可见
+2021-03-23 09:49:02,472-ERROR-logger.py-Consumer_WEB_TEST-日志信息:点击元素失败！
+2021-03-23 09:49:02,740-ERROR-logger.py-Consumer_WEB_TEST-日志信息:Deal Simulation--> 输入PN失败！！！

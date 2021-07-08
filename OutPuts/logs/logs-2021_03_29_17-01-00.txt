@@ -1,0 +1,4 @@
+2021-03-29 17:01:35,137-INFO-logger.py-Consumer_WEB_TEST-日志信息:导航到Plan Summary页面成功
+2021-03-29 17:01:47,791-INFO-logger.py-Consumer_WEB_TEST-日志信息:点击Plan Summary NO成功
+2021-03-29 17:02:04,621-INFO-logger.py-Consumer_WEB_TEST-日志信息:导航到PortfolioListComments页面，获取每个产品组对应的Portfolio No成功
+2021-03-29 17:02:11,320-INFO-logger.py-Consumer_WEB_TEST-日志信息:获取每个产品组对应的数据

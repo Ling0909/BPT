@@ -1,0 +1,10 @@
+2021-03-12 17:14:05,467-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//a[@tagid="CBT_EMEA_Execution_Plan"]')可见
+2021-03-12 17:14:15,755-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Approval页面中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="c875dcd5bf67624d2a518e746c91365d", element="c916067a-ecc7-4844-ae5d-1350eabd8468")>
+2021-03-12 17:14:15,778-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder1_BtnReset"]')可见
+2021-03-12 17:14:26,223-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Approval页面中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="c875dcd5bf67624d2a518e746c91365d", element="c916067a-ecc7-4844-ae5d-1350eabd8468")>
+2021-03-12 17:14:28,424-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('id', 'ContentPlaceHolder2_btnReject')可见
+2021-03-12 17:14:38,664-ERROR-logger.py-Consumer_WEB_TEST-日志信息:等待元素('id', 'ContentPlaceHolder2_btnReject')可见失败
+2021-03-12 17:14:38,945-ERROR-logger.py-Consumer_WEB_TEST-日志信息:Deal Approval页面失败！！！
+2021-03-12 17:14:39,470-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation-->Copy/Delete Deal Item数据中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="c875dcd5bf67624d2a518e746c91365d", element="a2eb0d21-98b0-454b-8049-028a6f603fca")>
+2021-03-12 17:14:44,873-ERROR-logger.py-Consumer_WEB_TEST-日志信息:点击元素失败！
+2021-03-12 17:14:45,145-ERROR-logger.py-Consumer_WEB_TEST-日志信息:Deal Simulation-->Copy/Delete Deal Item数据失败！！！

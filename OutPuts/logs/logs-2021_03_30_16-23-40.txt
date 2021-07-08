@@ -1,0 +1,10 @@
+2021-03-30 16:24:19,106-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation--> 创建Deal Plan中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="1bd112d6a5f497212cd42f96a5bcd83b", element="ddbdcf57-3b3f-4e4b-863b-91d2d86aa12e")>
+2021-03-30 16:24:33,501-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation--> 创建Deal Plan中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="1bd112d6a5f497212cd42f96a5bcd83b", element="8de3eb53-3c5a-4ef7-8f1b-d1960942c2c6")>
+2021-03-30 16:28:34,123-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Copy Deal Item中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="1bd112d6a5f497212cd42f96a5bcd83b", element="8de3eb53-3c5a-4ef7-8f1b-d1960942c2c6")>
+2021-03-30 16:28:34,207-ERROR-logger.py-Consumer_WEB_TEST-日志信息:Copy Deal Item失败！！！
+2021-03-30 16:29:07,559-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Approval页面中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="7ceff9b7d3aa699fdd709607c289681a", element="1d8a1a27-aa43-4bfa-b899-e0d45c640dad")>
+2021-03-30 16:29:29,930-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Approval页面中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="7ceff9b7d3aa699fdd709607c289681a", element="1d8a1a27-aa43-4bfa-b899-e0d45c640dad")>
+2021-03-30 16:29:40,181-ERROR-logger.py-Consumer_WEB_TEST-日志信息: 10 秒内页面 Deal Approval页面 中不存在元素: ('id', 'ContentPlaceHolder2_btnReject')
+2021-03-30 16:29:50,390-ERROR-logger.py-Consumer_WEB_TEST-日志信息: 10 秒内页面 Deal Approval页面 中不存在元素: ('id', 'ContentPlaceHolder2_btnReject')
+2021-03-30 16:29:50,413-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation-->Copy/Delete Deal Item数据中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="7ceff9b7d3aa699fdd709607c289681a", element="61fe0ec7-27f3-4082-9cc2-85b6d6c0330d")>
+2021-03-30 16:30:00,029-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation-->Copy/Delete Deal Item数据中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="7ceff9b7d3aa699fdd709607c289681a", element="1d8a1a27-aa43-4bfa-b899-e0d45c640dad")>

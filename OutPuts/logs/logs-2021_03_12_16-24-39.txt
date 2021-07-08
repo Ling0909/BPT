@@ -1,0 +1,4 @@
+2021-03-12 16:25:03,027-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//a[@tagid="CBT_EMEA_Execution_Plan"]')可见
+2021-03-12 16:25:13,326-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation-->Copy/Delete Deal Item数据中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="9c80baa0c16577fc19dd606d1a5b23cc", element="17934454-82cb-4ac5-bd24-0dae58aa891a")>
+2021-03-12 16:25:22,861-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation-->Copy/Delete Deal Item数据中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="9c80baa0c16577fc19dd606d1a5b23cc", element="0f1efa2a-d68a-4499-8a28-859692ad5ffd")>
+2021-03-12 16:25:26,111-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//a[@id="ContentPlaceHolder1_rpDealList_lbDetail_0"]')可见

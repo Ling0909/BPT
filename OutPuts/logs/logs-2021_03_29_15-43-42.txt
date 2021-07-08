@@ -1,0 +1,2 @@
+2021-03-29 15:44:10,717-INFO-logger.py-Consumer_WEB_TEST-日志信息:导航到Plan Summary页面成功
+2021-03-29 15:44:23,430-INFO-logger.py-Consumer_WEB_TEST-日志信息:点击Plan Summary NO成功

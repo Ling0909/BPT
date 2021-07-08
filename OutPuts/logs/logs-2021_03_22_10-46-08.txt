@@ -1,0 +1,6 @@
+2021-03-22 10:46:36,566-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('id', 'ContentPlaceHolder1_btnCreateDeal')可见
+2021-03-22 10:46:36,780-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation--> 创建Deal Plan中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="a537611e01bac38d7b32263232d7cf3a", element="1c49566f-eeed-424d-bcf6-667c28467565")>
+2021-03-22 10:46:42,751-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//*[@id="spRetailCustomer"]/span/span/span')可见
+2021-03-22 10:46:47,954-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//div[@id="_easyui_tree_51"]')可见
+2021-03-22 10:47:38,297-ERROR-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//div[@id="_easyui_tree_51"]')可见失败
+2021-03-22 10:47:38,606-ERROR-logger.py-Consumer_WEB_TEST-日志信息:Deal Simulation--> 创建Deal Plan失败！！！

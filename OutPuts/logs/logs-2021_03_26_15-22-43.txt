@@ -1,0 +1,4 @@
+2021-03-26 15:23:13,087-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder1_btnSearch"]')可见
+2021-03-26 15:23:43,202-ERROR-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder1_btnSearch"]')可见失败
+2021-03-26 15:23:43,475-ERROR-logger.py-Consumer_WEB_TEST-日志信息:导航到Plan Summary页面失败！！！
+2021-03-26 15:23:44,046-ERROR-logger.py-Consumer_WEB_TEST-日志信息:导航到Plan Summary页面失败！！！

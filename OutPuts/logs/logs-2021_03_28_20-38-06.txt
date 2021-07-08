@@ -1,0 +1,4 @@
+2021-03-28 20:38:33,930-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation--> 创建Deal Plan中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="2148b46e845d2c5688e8187160acaa39", element="3e0973a4-a7c9-4bbc-b1fe-47887c723901")>
+2021-03-28 20:38:47,839-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation--> 创建Deal Plan中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="2148b46e845d2c5688e8187160acaa39", element="e6060c26-b81c-40f1-a361-52516222c055")>
+2021-03-28 20:42:12,079-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Copy Deal Item中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="2148b46e845d2c5688e8187160acaa39", element="e6060c26-b81c-40f1-a361-52516222c055")>
+2021-03-28 20:42:12,206-ERROR-logger.py-Consumer_WEB_TEST-日志信息:Copy Deal Item失败！！！

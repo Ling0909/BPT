@@ -1,0 +1,11 @@
+#excle表格中各列值对应的列号
+PRODUCT_GROUP=4
+BRAND=5
+PRODUCT_SERIES=6
+PRODUCT_FAMILY=7
+CHARACTER_VALUE=8
+
+monthValues={'MONTH0':9,'MONTH1':10,'MONTH2':11,'MONTH3':12,'MONTH4':13,'MONTH5':14,'MONTH6':15,'MONTH7':16,'MONTH8':17,'MONTH9':18,'MONTH10':19,'MONTH11':20,'MONTH12':21}
+
+monthsDict = {'JAN.': 1, 'FEB.': 2, 'MAR.': 3, 'APR.': 4, 'MAY.': 5, 'JUN.': 6, 'JUL.': 7,
+               'AUG.': 8,'SEP.': 9,'OCT.': 10, 'NOV.': 11, 'DEC.': 12}

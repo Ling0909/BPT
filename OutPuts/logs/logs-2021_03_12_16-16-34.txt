@@ -1,0 +1,5 @@
+2021-03-12 16:16:52,922-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//a[@tagid="CBT_EMEA_Execution_Plan"]')可见
+2021-03-12 16:17:19,567-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面导航到Deal Approval页面，进行审批中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="0708baa9cd8ee61d0b44efd838250c08", element="79b547b6-1104-439f-b83d-52abd7a48998")>
+2021-03-12 16:17:19,593-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//input[@id="ContentPlaceHolder1_BtnReset"]')可见
+2021-03-12 16:17:23,687-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('id', 'ifContent')可见
+2021-03-12 16:17:33,718-ERROR-logger.py-Consumer_WEB_TEST-日志信息: ContentPlaceHolder2_btnReject 秒内页面 导航到Deal Approval页面，进行审批 中不存在元素: id

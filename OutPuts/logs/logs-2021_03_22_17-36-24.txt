@@ -1,0 +1,4 @@
+2021-03-22 17:36:41,247-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//a[@tagid="CBT_EMEA_Execution_Plan"]')可见
+2021-03-22 17:36:51,553-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面ele_iframe2中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="75cdb484136ceb8145049bdbe0fdd3c7", element="1ba9e802-1886-4562-9fd7-4abade92823c")>
+2021-03-22 17:37:19,401-ERROR-logger.py-Consumer_WEB_TEST-日志信息:查找元素失败！
+2021-03-22 17:37:19,749-ERROR-logger.py-Consumer_WEB_TEST-日志信息:Deal Simulation--> 提交Deal Item失败！！！

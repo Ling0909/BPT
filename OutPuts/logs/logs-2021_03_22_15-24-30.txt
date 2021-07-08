@@ -1,0 +1,4 @@
+2021-03-22 15:24:56,268-ERROR-logger.py-Consumer_WEB_TEST-日志信息:Deal Simulation--> 创建Deal Plan失败！！！
+2021-03-22 15:24:56,833-ERROR-logger.py-Consumer_WEB_TEST-日志信息:Deal Simulation--> 创建Deal Plan失败！！！
+2021-03-22 15:24:57,212-ERROR-logger.py-Consumer_WEB_TEST-日志信息:Deal Simulation--> 创建Deal Plan失败！！！
+2021-03-22 15:24:57,593-ERROR-logger.py-Consumer_WEB_TEST-日志信息:Deal Simulation--> 创建Deal Plan失败！！！

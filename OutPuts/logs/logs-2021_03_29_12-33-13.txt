@@ -1,0 +1,4 @@
+2021-03-29 12:33:47,313-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation--> 创建Deal Plan中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="0de5e7a297550d2f8247576a8d5e5b4e", element="4cbf2ab6-eab4-4076-a957-ec01f031876f")>
+2021-03-29 12:34:01,240-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation--> 创建Deal Plan中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="0de5e7a297550d2f8247576a8d5e5b4e", element="c35a73c5-0456-404a-9622-c8b16b3e11f7")>
+2021-03-29 12:38:09,822-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Copy Deal Item中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="0de5e7a297550d2f8247576a8d5e5b4e", element="c35a73c5-0456-404a-9622-c8b16b3e11f7")>
+2021-03-29 12:38:20,006-ERROR-logger.py-Consumer_WEB_TEST-日志信息:Delete Deal Item失败！！！

@@ -1,0 +1,4 @@
+2021-03-28 14:18:20,773-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation--> 创建Deal Plan中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="ea454d488d6e4646c8f2fc9a35c16838", element="212ddc50-1b45-4eed-ad42-f472255c4119")>
+2021-03-28 14:18:34,315-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation--> 创建Deal Plan中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="ea454d488d6e4646c8f2fc9a35c16838", element="f62ad77e-77c8-46e5-918b-5b5153bc5cd2")>
+2021-03-28 14:22:09,509-ERROR-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//*[@id="g_grid"]//div[@class="ag-pinned-left-cols-container"]/div[1]//span[1]//input[@class="ag-input-field-input ag-checkbox-input"]')可见失败
+2021-03-28 14:22:09,793-ERROR-logger.py-Consumer_WEB_TEST-日志信息:Deal Simulation--> 编辑Deal Item失败！！！

@@ -1,0 +1,5 @@
+2021-03-28 14:33:34,603-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation--> 创建Deal Plan中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="bbd9e890f04ade717dcedb997906e5c4", element="ae91c4a8-3a04-4f2f-b72c-2432a1f2590d")>
+2021-03-28 14:33:48,080-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation--> 创建Deal Plan中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="bbd9e890f04ade717dcedb997906e5c4", element="b0cc8c1a-7f30-4d08-980c-d94e02eb60be")>
+2021-03-28 14:37:11,971-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Copy Deal Item中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="bbd9e890f04ade717dcedb997906e5c4", element="b0cc8c1a-7f30-4d08-980c-d94e02eb60be")>
+2021-03-28 14:38:32,882-ERROR-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//*[@id="g_grid"]//div[@class="ag-pinned-left-cols-container"]/div[1]//span[1]//input[@class="ag-input-field-input ag-checkbox-input"]')可见失败
+2021-03-28 14:38:33,220-ERROR-logger.py-Consumer_WEB_TEST-日志信息:Delete Deal Item失败！！！

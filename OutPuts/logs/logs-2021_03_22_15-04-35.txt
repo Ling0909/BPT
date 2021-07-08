@@ -1,0 +1,5 @@
+2021-03-22 15:05:06,120-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('id', 'ContentPlaceHolder1_btnCreateDeal')可见
+2021-03-22 15:05:06,336-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation--> 创建Deal Plan中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="7c6536e6f838ae446595e9bdd46e2fef", element="a73be54e-b8d5-4280-b39e-036570fb3f92")>
+2021-03-22 15:05:13,564-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//*[@id="spRetailCustomer"]/span/span/span')可见
+2021-03-22 15:05:21,765-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//div[@id="_easyui_tree_1"]')可见
+2021-03-22 15:05:22,938-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation--> 创建Deal Plan中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="7c6536e6f838ae446595e9bdd46e2fef", element="613cc604-1da2-4172-8f04-4ca47aa29359")>

@@ -1,0 +1,13 @@
+2021-03-22 15:22:45,311-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('id', 'ContentPlaceHolder1_btnCreateDeal')可见
+2021-03-22 15:22:45,522-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation--> 创建Deal Plan中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="d9397b35551c47651df48f3d60cd57e0", element="2bae80c4-7ebe-49aa-b60b-ccd4c03b72c4")>
+2021-03-22 15:22:52,170-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//*[@id="spRetailCustomer"]/span/span/span')可见
+2021-03-22 15:22:58,379-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//div[@id="_easyui_tree_1"]')可见
+2021-03-22 15:22:59,556-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation--> 创建Deal Plan中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="d9397b35551c47651df48f3d60cd57e0", element="bf22a727-4bb8-4bb6-a705-5edf0c8b7e67")>
+2021-03-22 15:22:59,684-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//a[@id="ContentPlaceHolder2_btnSelectMTM"]')可见
+2021-03-22 15:23:10,695-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//*[@id="ContentPlaceHolder1_rpMTMinfo_cbMTMID_0"]')可见
+2021-03-22 15:23:30,678-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//*[@id="ContentPlaceHolder1_rpMTMinfo_cbMTMID_0"]')可见
+2021-03-22 15:23:46,079-INFO-logger.py-Consumer_WEB_TEST-日志信息:等待元素('xpath', '//*[@id="ContentPlaceHolder1_rpMTMinfo_cbMTMID_0"]')可见
+2021-03-22 15:24:02,417-ERROR-logger.py-Consumer_WEB_TEST-日志信息:点击元素失败！
+2021-03-22 15:24:03,050-ERROR-logger.py-Consumer_WEB_TEST-日志信息:Deal Simulation--> 创建Deal Plan失败！！！
+2021-03-22 15:24:03,534-ERROR-logger.py-Consumer_WEB_TEST-日志信息:Deal Simulation--> 创建Deal Plan失败！！！
+2021-03-22 15:24:04,004-ERROR-logger.py-Consumer_WEB_TEST-日志信息:Deal Simulation--> 创建Deal Plan失败！！！

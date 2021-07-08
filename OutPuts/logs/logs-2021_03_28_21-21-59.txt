@@ -1,0 +1,7 @@
+2021-03-28 21:22:28,276-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Approval页面中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="d1d1e0745e4e62862e5878a5653e5c70", element="98ef9a08-f74b-42c7-9f0b-2d82a1e7be0e")>
+2021-03-28 21:22:38,784-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Approval页面中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="d1d1e0745e4e62862e5878a5653e5c70", element="98ef9a08-f74b-42c7-9f0b-2d82a1e7be0e")>
+2021-03-28 21:22:49,006-ERROR-logger.py-Consumer_WEB_TEST-日志信息: 10 秒内页面 Deal Approval页面 中不存在元素: ('id', 'ContentPlaceHolder2_btnReject')
+2021-03-28 21:22:59,198-ERROR-logger.py-Consumer_WEB_TEST-日志信息: 10 秒内页面 Deal Approval页面 中不存在元素: ('id', 'ContentPlaceHolder2_btnReject')
+2021-03-28 21:22:59,218-INFO-logger.py-Consumer_WEB_TEST-日志信息:在页面Deal Simulation-->Copy/Delete Deal Item数据中切换到iframe<selenium.webdriver.remote.webelement.WebElement (session="d1d1e0745e4e62862e5878a5653e5c70", element="c70943a3-ad6e-419d-b2d3-8efd3feecb27")>
+2021-03-28 21:23:06,713-ERROR-logger.py-Consumer_WEB_TEST-日志信息:点击元素失败！
+2021-03-28 21:23:07,075-ERROR-logger.py-Consumer_WEB_TEST-日志信息:Deal Simulation-->Copy/Delete Deal Item数据失败！！！
